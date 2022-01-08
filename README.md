@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mehdi Ben Tamarout</h1>
 <h3 align="center">Love JS,love writting dev arcticle and share my khnowledges</h3>
 
-- 🌱 I’m currently learning **ES6**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehdibentamarout?tab=repositories](https://github.com/mehdibentamarout?tab=repositories)
 
