@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [Facebook](Facebook)
 
 - 📫 How to reach me **mehdibentamarout@gmail.com**
--<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+-<img align="right" src="https://static.wixstatic.com/media/448b07_db5ae42a02e14d4d8a681ad905733a9a~mv2.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
