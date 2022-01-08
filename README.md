@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mehdi Ben Tamarout</h1>
 <h3 align="center">Love JS,love writting dev arcticle and share my khnowledges</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdibentamarout" alt="mehdibentamarout" /></a> </p>
-
 - 🌱 I’m currently learning **ES6**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehdibentamarout?tab=repositories](https://github.com/mehdibentamarout?tab=repositories)
@@ -47,6 +45,10 @@ Here are some ideas to get you started:
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee mehdibentamarout"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee mehdibentamarout" /></a><a href="https://ko-fi.com/Ko-Fe mehdibentamarout"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fe mehdibentamarout" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdibentamarout&show_icons=true&locale=en&layout=compact" alt="mehdibentamarout" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdibentamarout&" alt="mehdibentamarout" /></p>
+
+
 
 
 
