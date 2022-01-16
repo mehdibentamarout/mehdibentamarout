@@ -11,12 +11,14 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mehdibentamarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehdibentamarout" height="30" width="40" /></a>
 <a href="https://dev.to/mehdibentamarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mehdibentamarout" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehdi ben tamarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi ben tamarout" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehdi" height="30" width="40" /></a>
+  <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 <a href="https://fb.com/mehdi bentamarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehdi bentamarout" height="30" width="40" /></a>
 <a href="https://instagram.com/mehdibentamarout5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehdibentamarout5" height="30" width="40" /></a>
 <a href="https://dribbble.com/mehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mehdi" height="30" width="40" /></a>
